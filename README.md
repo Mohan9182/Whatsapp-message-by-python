@@ -1,1 +1,4 @@
-# Whatsapp-message-by-python
+# Whatsapp message by python
+#### Requirements
+###### 1.Selenium
+###### 2.Chrmedriver
