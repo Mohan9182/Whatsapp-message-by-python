@@ -1,4 +1,5 @@
 import pyautogui as pg
+import webbrowser as web
 
 def sendwhatmsg(phone_no, message):
   web.open('https://web.whatsapp.com/send?phone='+phone_no+'&text='+message)
